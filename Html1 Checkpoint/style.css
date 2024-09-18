@@ -1,0 +1,14 @@
+.nav-container .navbar{
+    display: inline;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    height: 30px;
+}
+.nav-container .navbar a{
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 18px
+}
